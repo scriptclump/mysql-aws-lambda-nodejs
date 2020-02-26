@@ -1,0 +1,29 @@
+{
+  "name": "mysql-aws-lambda-nodejs",
+  "version": "1.0.0",
+  "description": "Connect AWS Lambda function with MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptclump/mysql-aws-lambda-nodejs.git"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "MySQL",
+    "NodeJs",
+    "Connection Pool"
+  ],
+  "author": "Basant Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriptclump/mysql-aws-lambda-nodejs/issues"
+  },
+  "homepage": "https://github.com/scriptclump/mysql-aws-lambda-nodejs#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
